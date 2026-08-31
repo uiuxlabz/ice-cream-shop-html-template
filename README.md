@@ -10,6 +10,10 @@ iCREAM is a candy-bright, premium ice cream shop website with a creamy pastel pa
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value | Used for |
